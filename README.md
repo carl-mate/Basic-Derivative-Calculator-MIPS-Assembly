@@ -26,6 +26,14 @@ may not output the values correctly if the inputs/results are outside the said c
 should be first and the lowest power should be last. For example, the function 4x^-5-5+6x^2 written in 
 standard form is 4x^5+6x^2-5. Otherwise, the program may not output the correct result.
 
+## Video
+
+
+
+https://github.com/user-attachments/assets/6a22d5fa-6250-47c4-842f-cddcc12d60f8
+
+
+
 
 ## Author
 Carl Joseph P. Mate and Sophia Marie C. Casas
